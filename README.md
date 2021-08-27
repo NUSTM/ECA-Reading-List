@@ -133,5 +133,4 @@ This is a reading list on the task of Emotion Cause Analysis maintained by [Zixi
 | GoodNewsEveryone | 15<br />extended Plutchik: {anger, annoyance, disgust, fear, guilt, joy, love, pessimism, negative surprise, optimism, positive surprise, pride, sadness, shame, trust} | emotion cue, cause, experiencer, target, intensity, reader emotion | 5,000 | The dataset consists of annotated English news headlines. | Bostan et al., 2019<br />[[paper](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.194.pdf)]<br />[[data](http://www.romanklinger.de/data-sets/GoodNewsEveryone.zip)] |
 
 ## 4. Emotion-Cause Related Tasks
- (这个题目是不是有点大）
 1. Yanran Li, Ke Li, Hongke Ning, Xiaoqiang Xia, Yalong Guo, Chen Wei, Jianwei Cui, Bin Wang. **Towards an Online Empathetic Chatbot with Emotion Causes**. SIGIR 2021. [[paper](https://dl.acm.org/doi/pdf/10.1145/3404835.3463042)] 
