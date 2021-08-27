@@ -1,8 +1,6 @@
 # Emotion-Cause-Analysis
-This is a reading list on the task of Emotion Cause Analysis maintained by Zixiang Ding, Fanfan Wang, and Jiaming An. Last update time: 20210623.
+This is a reading list on the task of Emotion Cause Analysis maintained by Zixiang Ding, Fanfan Wang, and Jiaming An. Last update time: 20210827.
 
-- [ ] 更新IJCAI 2021, ACL 2021 文献 (未发布)
-- [x] 更新ACL 2020, EMNLP 2020, COLING 2020, NLPCC 2020, AAAI 2021文献 2021.6.23
 
 ### Contents
 
