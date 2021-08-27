@@ -4,7 +4,7 @@ This is a reading list on the task of Emotion Cause Analysis maintained by Zixia
 
 ### Contents
 
-* [1. New Task](#1-New-Task)
+* [1. New Tasks](#1-New-Tasks)
 * [2. Emotion-Cause Pair Extraction (ECPE)](#2-Emotion-Cause-Pair-Extraction-(ECPE))
 * [3. Emotion Cause Extraction (ECE)](#3-Emotion-Cause-Extraction-(ECE))
 	* [3.1 Word-level ECE](#31-Word-level-ECE)
@@ -15,7 +15,7 @@ This is a reading list on the task of Emotion Cause Analysis maintained by Zixia
 	* [3.6 Dataset](#36-Dataset)
 * [4. Emotion-Cause Related Tasks](#4-Emotion-Cause-Related-Tasks)
 
-## 1. New Task
+## 1. New Tasks
 1. Xinhong Chen, Qing Li and JianpingWang. **Conditional Causal Relationships between Emotions and Causes in Texts**. EMNLP 2020. [[paper](https://www.aclweb.org/anthology/2020.emnlp-main.252.pdf)] [[code](https://github.com/mark-xhchen/Conditional-ECPE)]
 1. Hongliang Bi and Pengyuan Liu. **ECSP: A New Task for Emotion-Cause Span-Pair Extraction and Classification**. ArXiv 2020. [[paper](https://arxiv.org/pdf/2003.03507)]
 1. SoujanSoujanya Poria, Navonil Majumder, Devamanyu Hazarika, Deepanway Ghosal, Rishabh Bhardwaj, Samson Yu Bai Jian, Pengfei Hong, Romila Ghosh, Abhinaba Roy, Niyati Chhaya, Alexander Gelbukh, Rada Mihalcea. **Recognizing Emotion Cause in Conversations**. Cognitive Computation 2021. [[paper](https://arxiv.org/pdf/2012.11820.pdf)] [[code](https://github.com/declare-lab/conv-emotion/tree/master/emotion-cause-extraction)]
