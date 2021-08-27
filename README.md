@@ -1,4 +1,4 @@
-# Emotion-Cause-Analysis
+# Emotion-Cause-Analysis Reading List
 This is a reading list on the task of Emotion Cause Analysis maintained by [Zixiang Ding](https://scholar.google.com/citations?user=W6z662wAAAAJ), Fanfan Wang, and Jiaming An from [NUSTM](https://github.com/NUSTM). Last update time: 20210827.
 
 
