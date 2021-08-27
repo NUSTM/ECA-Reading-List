@@ -4,23 +4,18 @@ This is a reading list on the task of Emotion Cause Analysis maintained by [Zixi
 
 ### Contents
 
-* [1. New Tasks](#1-New-Tasks)
-* [2. Emotion-Cause Pair Extraction (ECPE)](#2-Emotion-Cause-Pair-Extraction-(ECPE))
-* [3. Emotion Cause Extraction (ECE)](#3-Emotion-Cause-Extraction-(ECE))
-	* [3.1 Word-level ECE](#31-Word-level-ECE)
-	* [3.2 Span-level ECE](#32-Span-level-ECE)
-	* [3.3 Clause-level ECE](#33-Clause-level-ECE)
-	* [3.4 Multi-level ECE](#34-Multi-level-ECE)
-	* [3.5 Current/Original-subtweet-based ECE](#35-Current/Original-subtweet-based-ECE)
-	* [3.6 Dataset](#36-Dataset)
-* [4. Emotion-Cause Related Tasks](#4-Emotion-Cause-Related-Tasks)
+* [1. Emotion-Cause Pair Extraction (ECPE)](#1-Emotion-Cause-Pair-Extraction-(ECPE))
+* [2. Emotion Cause Extraction (ECE)](#2-Emotion-Cause-Extraction-(ECE))
+	* [2.1 Word-level ECE](#31-Word-level-ECE)
+	* [2.2 Span-level ECE](#32-Span-level-ECE)
+	* [2.3 Clause-level ECE](#33-Clause-level-ECE)
+	* [2.4 Multi-level ECE](#34-Multi-level-ECE)
+* [3. Other Tasks](#3-Other-Tasks)
+* [4. Datasets](#4-Datasets)
 
-## 1. New Tasks
-1. Xinhong Chen, Qing Li and JianpingWang. **Conditional Causal Relationships between Emotions and Causes in Texts**. EMNLP 2020. [[paper](https://www.aclweb.org/anthology/2020.emnlp-main.252.pdf)] [[code](https://github.com/mark-xhchen/Conditional-ECPE)]
-1. Hongliang Bi and Pengyuan Liu. **ECSP: A New Task for Emotion-Cause Span-Pair Extraction and Classification**. ArXiv 2020. [[paper](https://arxiv.org/pdf/2003.03507)]
-1. SoujanSoujanya Poria, Navonil Majumder, Devamanyu Hazarika, Deepanway Ghosal, Rishabh Bhardwaj, Samson Yu Bai Jian, Pengfei Hong, Romila Ghosh, Abhinaba Roy, Niyati Chhaya, Alexander Gelbukh, Rada Mihalcea. **Recognizing Emotion Cause in Conversations**. Cognitive Computation 2021. [[paper](https://arxiv.org/pdf/2012.11820.pdf)] [[code](https://github.com/declare-lab/conv-emotion/tree/master/emotion-cause-extraction)]
 
-## 2. Emotion-Cause Pair Extraction (ECPE)
+
+## 1. Emotion-Cause Pair Extraction (ECPE)
 2. Chuang Fan, Chaofa Yuan, Lin Gui, Yue Zhang, Ruifeng Xu. **Multi-task Sequence Tagging for Emotion-Cause Pair Extraction via Tag Distribution Refinement**. TASLP 2021. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9457144)] 
 3. Aaditya Singh, Shreeshail Hingane, Saim Wani, and Ashutosh Modi. **An End-to-End Network for Emotion-Cause Pair Extraction**. EACL 2021. [[paper](https://www.aclweb.org/anthology/2021.wassa-1.9/)] [[code](https://github.com/Aaditya-Singh/E2E-ECPE)]
 4. Jiaxin Yu, Wenyuan Liu, Yongjun He, Chunyue Zhang. **A Mutually Auxiliary Multitask Model With Self-Distillation for Emotion-Cause Pair Extraction**. IEEE Access 2021.[[paper](https://doi.org/10.1109/ACCESS.2021.3057880)]
@@ -46,16 +41,9 @@ This is a reading list on the task of Emotion Cause Analysis maintained by [Zixi
 18. Rui Xia and Zixiang Ding. **Emotion-Cause Pair Extraction: A New Task to Emotion Analysis in Texts**. ACL 2019. [[paper](https://arxiv.org/abs/1906.01267)] [[code](https://github.com/NUSTM/ECPE)]
 
 
-
-### 2.1 Dataset
-- ECPE Dataset [[paper](https://arxiv.org/abs/1906.01267)] [[data](https://github.com/NUSTM/ECPE/tree/master/data_combine)]
-   - This dataset was constructed based on the benchmark ECE corpus (Gui et al., 2016a);
-   - This dataset consists of 1,945 Chinese city news documents from SINA NEWS website.
-
-
 &nbsp;
-## 3. Emotion Cause Extraction (ECE)
-### 3.1 Word-level ECE
+## 2. Emotion Cause Extraction (ECE)
+### 2.1 Word-level ECE
 1. Shuntaro Yada, Kazushi Ikeda, Keiichiro Hoashi, and Kyo Kageura. **A bootstrap method for automatic rule acquisition on emotion cause extraction**. ICDMW 2017. [[paper](https://sentic.net/sentire2017yada.pdf)]
 1. Shuangyong Song and Yao Meng. **Detecting concept-level emotion cause in microblogging**. WWW 2015. [[paper](https://arxiv.org/pdf/1504.08050)]
 1. Diman Ghazi, Diana Inkpen, and Stan Szpakowicz. **Detecting emotion stimuli in emotion-bearing sentences**. CICLing 2015. [[paper](http://www.site.uottawa.ca/~diana/publications/90420152.pdf)] 
@@ -66,14 +54,15 @@ This is a reading list on the task of Emotion Cause Analysis maintained by [Zixi
 1. Sophia Yat Mei Lee, Ying Chen, Chu-Ren Huang, and Shoushan Li. **Detecting emotion causes with a linguistic rule-based approach**. Computational Intelligence 2013. [[paper](http://www.academia.edu/download/39679985/DETECTING_EMOTION_CAUSES_WITH_A_LINGUIST20151104-12559-z8qt0h.pdf)]
 1. Sophia Yat Mei Lee, Ying Chen, and Chu-Ren Huang. **A text-driven rule-based system for emotion cause detection**. NAACL-HLT 2010. [[paper](https://www.aclweb.org/anthology/W/W10/W10-0206.pdf)]
 
-### 3.2 Span-level ECE
+### 2.2 Span-level ECE
 1. Xiangju Li, Wei Gao, Shi Feng, Yifei Zhang, Daling Wang. **Boundary Detection with BERT for Span-level Emotion Cause Analysis**. ACL (Findings) 2021. [[paper](https://aclanthology.org/2021.findings-acl.60.pdf)] 
 1. Elsbeth Turcan, Shuai Wang, Rishita Anubhai, Kasturi Bhattacharjee, Yaser Al-Onaizan, Smaranda Muresan. **Multi-Task Learning and Adapted Knowledge Models for Emotion-Cause Extraction**. ACL (Findings) 2021. [[paper](https://aclanthology.org/2021.findings-acl.348.pdf)] 
 1. Xiangju Li, Wei Gao, Shi Feng, Wang Daling, and Shafiq Joty. **Span-Level Emotion Cause Analysis by BERT-based Graph Attention Network**. CIKM 2021. 
 1. Xiangju Li, Wei Gao, Shi Feng, Wang Daling, and Shafiq Joty. **Span-level Emotion Cause Analysis with Neural Sequence Tagging**. CIKM 2021. 
+1. SoujanSoujanya Poria, Navonil Majumder, Devamanyu Hazarika, Deepanway Ghosal, Rishabh Bhardwaj, Samson Yu Bai Jian, Pengfei Hong, Romila Ghosh, Abhinaba Roy, Niyati Chhaya, Alexander Gelbukh, Rada Mihalcea. **Recognizing Emotion Cause in Conversations**. Cognitive Computation 2021. [[paper](https://arxiv.org/pdf/2012.11820.pdf)] [[code](https://github.com/declare-lab/conv-emotion/tree/master/emotion-cause-extraction)]
 1. Min Li, Hui Zhao, Hao Su, YuRong Qian and Ping Li. **Emotion-cause span extraction: a new task to emotion cause identification in texts**. Applied Intelligence 2021. [[paper](https://link.springer.com/article/10.1007/s10489-021-02188-7)]
 
-### 3.3 Clause-level ECE
+### 2.3 Clause-level ECE
 1. Hanqi Yan, Lin Gui, Gabriele Pergola, Yulan He. **Position Bias Mitigation: A Knowledge-Aware Graph Model for Emotion Cause Extraction**. ACL 2021 . [[paper](https://aclanthology.org/2021.acl-long.261.pdf)] 
 1. Wenhui Yu, Chongyang Shi. **Emotion Cause Extraction by Combining Intra-clause Sentiment-enhanced Attention and Inter-clause Consistency Interaction**. ICCCS 2021. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9449281)] 
 1. Guimin Hu, Guangming Lu and Yi Zhao. **FSS-GCN: A graph convolutional networks with fusion of semantic and structure for emotion cause analysis**. Knowledge-Based Systems 2021. [[paper](https://www.sciencedirect.com/science/article/pii/S0950705120307139)] [[code](https://github.com/LeMei/FSS-GCN)]
@@ -106,15 +95,19 @@ This is a reading list on the task of Emotion Cause Analysis maintained by [Zixi
 1. Irene Russo, Tommaso Caselli, Francesco Rubino, Ester Boldrini, and Patricio Mart´ınez-Barco. **Emocause: an easy-adaptable approach to emotion cause contexts**. WASSA 2011. [[paper](https://rua.ua.es/dspace/bitstream/10045/22495/1/2011_Russo_HLT.pdf)]
 1. Ying Chen, Sophia Yat Mei Lee, Shoushan Li, and Chu-Ren Huang. **Emotion cause detection with linguistic constructions**. COLING 2010. [[paper](https://www.aclweb.org/anthology/C10-1021)]
 
-### 3.4 Multi-level ECE
+### 2.4 Multi-level ECE
 1. Xiangju Li, Shi Feng, Yifei Zhang, Daling Wang. **Multi-level Emotion Cause Analysis by Multi-head Attention Based Multi-task Learning**. CCL 2021. [[paper](https://link.springer.com/chapter/10.1007%2F978-3-030-84186-7_6)] 
 
-### 3.5 Current/Original-subtweet-based ECE
+## 3. Other Tasks
+1. Yanran Li, Ke Li, Hongke Ning, Xiaoqiang Xia, Yalong Guo, Chen Wei, Jianwei Cui, Bin Wang. **Towards an Online Empathetic Chatbot with Emotion Causes**. SIGIR 2021. [[paper](https://dl.acm.org/doi/pdf/10.1145/3404835.3463042)] 
+1. Hongliang Bi and Pengyuan Liu. **ECSP: A New Task for Emotion-Cause Span-Pair Extraction and Classification**. ArXiv 2020. [[paper](https://arxiv.org/pdf/2003.03507)]
+1. Xinhong Chen, Qing Li and JianpingWang. **Conditional Causal Relationships between Emotions and Causes in Texts**. EMNLP 2020. [[paper](https://www.aclweb.org/anthology/2020.emnlp-main.252.pdf)] [[code](https://github.com/mark-xhchen/Conditional-ECPE)]
 1. Ying Chen, Wenjun Hou, Xiyao Cheng, and Shoushan Li. **Joint learning for emotion classification and emotion cause detection**. EMNLP 2018. [[paper](https://www.aclweb.org/anthology/D18-1066)]
 1. Ying Chen, Wenjun Hou, and Xiyao Cheng. **Hierarchical convolution neural network for emotion cause detection on microblogs**. ICANN 2018. [[paper](https://link.springer.com/chapter/10.1007/978-3-030-01418-6_12)]
 1. Xiyao Cheng, Ying Chen, and Bixiao Cheng. **An Emotion Cause Corpus for Chinese Microblogs with Multiple-User Structures**. TALLIP 2017. [[paper](http://ir.nsfc.gov.cn/paperDownload/ZD4360642.pdf)]
 
-### 3.6 Dataset
+
+## 4 Datasets
 | Dataset | Emotion Categories | Annotated Roles | Size | Description | Source |
 | ----- | ----- | ----- | ----- | ----- | ----- |
 | Chinese EC Corpus | 5 <br />Turner: {happiness, sadness, fear, anger, surprise} | emotion cue, cause | 5,964 | Each **Chinese** instance contains 3 sentences extracted from the Sinica Corpus and 3,460 instances are annotated with emotion cause. | Lee et al., 2010b<br />[[paper](https://www.researchgate.net/profile/Chu-Ren_Huang/publication/220746716_Emotion_Cause_Events_Corpus_Construction_and_Analysis/links/0912f508ff080541ac000000/Emotion-Cause-Events-Corpus-Construction-and-Analysis.pdf)] |
@@ -132,5 +125,3 @@ This is a reading list on the task of Emotion Cause Analysis maintained by [Zixi
 | REMAN | 9<br />Plutchik + {other} | emotion cue, cause, experiencer, target | 1,720 | Each instance contains consecutive triples of sentences which are sampled from literature (200 books from Project Gutenberg). | Kim and Klinger, 2018<br />[[paper](https://www.aclweb.org/anthology/C18-1114.pdf)]<br />[[data](http://www.ims.uni-stuttgart.de/data/reman)] |
 | GoodNewsEveryone | 15<br />extended Plutchik: {anger, annoyance, disgust, fear, guilt, joy, love, pessimism, negative surprise, optimism, positive surprise, pride, sadness, shame, trust} | emotion cue, cause, experiencer, target, intensity, reader emotion | 5,000 | The dataset consists of annotated English news headlines. | Bostan et al., 2019<br />[[paper](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.194.pdf)]<br />[[data](http://www.romanklinger.de/data-sets/GoodNewsEveryone.zip)] |
 
-## 4. Emotion-Cause Related Tasks
-1. Yanran Li, Ke Li, Hongke Ning, Xiaoqiang Xia, Yalong Guo, Chen Wei, Jianwei Cui, Bin Wang. **Towards an Online Empathetic Chatbot with Emotion Causes**. SIGIR 2021. [[paper](https://dl.acm.org/doi/pdf/10.1145/3404835.3463042)] 
