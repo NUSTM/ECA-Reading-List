@@ -4,14 +4,14 @@ This is a reading list on the task of Emotion Cause Analysis maintained by [Zixi
 
 ### Contents
 
-* [1. Emotion-Cause Pair Extraction (ECPE)](#1-Emotion-Cause-Pair-Extraction-(ECPE))
-* [2. Emotion Cause Extraction (ECE)](#2-Emotion-Cause-Extraction-(ECE))
-	* [2.1 Word-level ECE](#31-Word-level-ECE)
-	* [2.2 Span-level ECE](#32-Span-level-ECE)
-	* [2.3 Clause-level ECE](#33-Clause-level-ECE)
-	* [2.4 Multi-level ECE](#34-Multi-level-ECE)
-* [3. Other Tasks](#3-Other-Tasks)
-* [4. Datasets](#4-Datasets)
+- [1. Emotion-Cause Pair Extraction (ECPE)](#1-emotion-cause-pair-extraction-ecpe)
+- [2. Emotion Cause Extraction (ECE)](#2-emotion-cause-extraction-ece)
+  - [2.1 Word-level ECE](#21-word-level-ece)
+  - [2.2 Span-level ECE](#22-span-level-ece)
+  - [2.3 Clause-level ECE](#23-clause-level-ece)
+  - [2.4 Multi-level ECE](#24-multi-level-ece)
+- [3. Other Tasks](#3-other-tasks)
+- [4 Datasets](#4-datasets)
 
 
 
