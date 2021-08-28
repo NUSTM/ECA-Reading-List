@@ -11,7 +11,7 @@ This is a reading list on the task of Emotion Cause Analysis maintained by [Zixi
   - [2.3 Clause-level ECE](#23-clause-level-ece)
   - [2.4 Multi-level ECE](#24-multi-level-ece)
 - [3. Other Tasks](#3-other-tasks)
-- [4 Datasets](#4-datasets)
+- [4. Datasets](#4-datasets)
 
 
 
@@ -107,7 +107,7 @@ This is a reading list on the task of Emotion Cause Analysis maintained by [Zixi
 1. Xiyao Cheng, Ying Chen, and Bixiao Cheng. **An Emotion Cause Corpus for Chinese Microblogs with Multiple-User Structures**. TALLIP 2017. [[paper](http://ir.nsfc.gov.cn/paperDownload/ZD4360642.pdf)]
 
 
-## 4 Datasets
+## 4. Datasets
 | Dataset | Emotion Categories | Annotated Roles | Size | Description | Source |
 | ----- | ----- | ----- | ----- | ----- | ----- |
 | Chinese EC Corpus | 5 <br />Turner: {happiness, sadness, fear, anger, surprise} | emotion cue, cause | 5,964 | Each **Chinese** instance contains 3 sentences extracted from the Sinica Corpus and 3,460 instances are annotated with emotion cause. | Lee et al., 2010b<br />[[paper](https://www.researchgate.net/profile/Chu-Ren_Huang/publication/220746716_Emotion_Cause_Events_Corpus_Construction_and_Analysis/links/0912f508ff080541ac000000/Emotion-Cause-Events-Corpus-Construction-and-Analysis.pdf)] |
