@@ -1,21 +1,19 @@
+
+
 # Emotion-Cause-Analysis Reading List
 This is a reading list on the task of Emotion Cause Analysis maintained by [Zixiang Ding](https://scholar.google.com/citations?user=W6z662wAAAAJ), Fanfan Wang, and Jiaming An from [NUSTM](https://github.com/NUSTM). Last update time: 20210827.
 
 
 ### Contents
 
-- [Emotion-Cause-Analysis Reading List](#emotion-cause-analysis-reading-list)
-    - [Contents](#contents)
-  - [1. Emotion-Cause Pair Extraction (ECPE)](#1-emotion-cause-pair-extraction-ecpe)
-  - [2. Emotion Cause Extraction (ECE)](#2-emotion-cause-extraction-ece)
-    - [2.1 Word-level ECE](#21-word-level-ece)
-    - [2.2 Span-level ECE](#22-span-level-ece)
-    - [2.3 Clause-level ECE](#23-clause-level-ece)
-    - [2.4 Multi-level ECE](#24-multi-level-ece)
-  - [3. Other Tasks](#3-other-tasks)
-  - [4. Datasets](#4-datasets)
-
-
+- [1. Emotion-Cause Pair Extraction (ECPE)](#1-emotion-cause-pair-extraction-ecpe)
+- [2. Emotion Cause Extraction (ECE)](#2-emotion-cause-extraction-ece)
+  - [2.1 Word-level ECE](#21-word-level-ece)
+  - [2.2 Span-level ECE](#22-span-level-ece)
+  - [2.3 Clause-level ECE](#23-clause-level-ece)
+  - [2.4 Multi-level ECE](#24-multi-level-ece)
+- [3. Other Tasks](#3-other-tasks)
+- [4. Datasets](#4-datasets)
 
 ## 1. Emotion-Cause Pair Extraction (ECPE)
 1. Chuang Fan, Chaofa Yuan, Lin Gui, Yue Zhang, Ruifeng Xu. **Multi-task Sequence Tagging for Emotion-Cause Pair Extraction via Tag Distribution Refinement**. TASLP 2021. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9457144)] 
