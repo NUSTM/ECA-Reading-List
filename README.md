@@ -16,29 +16,23 @@ This is a reading list on the task of Emotion Cause Analysis maintained by [Zixi
 
 
 ## 1. Emotion-Cause Pair Extraction (ECPE)
-2. Chuang Fan, Chaofa Yuan, Lin Gui, Yue Zhang, Ruifeng Xu. **Multi-task Sequence Tagging for Emotion-Cause Pair Extraction via Tag Distribution Refinement**. TASLP 2021. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9457144)] 
-3. Aaditya Singh, Shreeshail Hingane, Saim Wani, and Ashutosh Modi. **An End-to-End Network for Emotion-Cause Pair Extraction**. EACL 2021. [[paper](https://www.aclweb.org/anthology/2021.wassa-1.9/)] [[code](https://github.com/Aaditya-Singh/E2E-ECPE)]
-4. Jiaxin Yu, Wenyuan Liu, Yongjun He, Chunyue Zhang. **A Mutually Auxiliary Multitask Model With Self-Distillation for Emotion-Cause Pair Extraction**. IEEE Access 2021.[[paper](https://doi.org/10.1109/ACCESS.2021.3057880)]
-5. Qixuan Sun, Yaqi Yin, Hong Yu. **A Dual-Questioning Attention Network for Emotion-Cause Pair Extraction with Context Awareness**. Arxiv 2021.[[paper](https://arxiv.org/abs/2104.07221)]
-6. Zixiang Ding, Rui Xia, and Jianfei Yu. **ECPE-2D: Emotion-Cause Pair Extraction based on Joint Two-Dimensional Representation, Interaction and Prediction**. ACL 2020. [[paper](https://www.aclweb.org/anthology/2020.acl-main.288.pdf)] [[code](https://github.com/NUSTM/ECPE-2D)]
-7. Penghui Wei, Jiahao Zhao, and Wenji Mao. **Effective Inter-Clause Modeling for End-to-End Emotion-Cause Pair Extraction**. ACL 2020. [[paper](https://www.aclweb.org/anthology/2020.acl-main.289.pdf)] [[code](https://github.com/Determined22/Rank-Emotion-Cause)]
-8. Chuang Fan, Chaofa Yuan, Jiachen Du, Lin Gui, Min Yang, and Ruifeng Xu. **Transition-based Directed Graph Construction for Emotion-Cause Pair Extraction**. ACL 2020. [[paper](https://www.aclweb.org/anthology/2020.acl-main.342.pdf)] [[code](https://github.com/HLT-HITSZ/TransECPE)]
-
+1. Chuang Fan, Chaofa Yuan, Lin Gui, Yue Zhang, Ruifeng Xu. **Multi-task Sequence Tagging for Emotion-Cause Pair Extraction via Tag Distribution Refinement**. TASLP 2021. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9457144)] 
+1. Aaditya Singh, Shreeshail Hingane, Saim Wani, and Ashutosh Modi. **An End-to-End Network for Emotion-Cause Pair Extraction**. EACL 2021. [[paper](https://www.aclweb.org/anthology/2021.wassa-1.9/)] [[code](https://github.com/Aaditya-Singh/E2E-ECPE)]
+1. Jiaxin Yu, Wenyuan Liu, Yongjun He, Chunyue Zhang. **A Mutually Auxiliary Multitask Model With Self-Distillation for Emotion-Cause Pair Extraction**. IEEE Access 2021.[[paper](https://doi.org/10.1109/ACCESS.2021.3057880)]
+1. Qixuan Sun, Yaqi Yin, Hong Yu. **A Dual-Questioning Attention Network for Emotion-Cause Pair Extraction with Context Awareness**. Arxiv 2021.[[paper](https://arxiv.org/abs/2104.07221)]
+1. Zixiang Ding, Rui Xia, and Jianfei Yu. **ECPE-2D: Emotion-Cause Pair Extraction based on Joint Two-Dimensional Representation, Interaction and Prediction**. ACL 2020. [[paper](https://www.aclweb.org/anthology/2020.acl-main.288.pdf)] [[code](https://github.com/NUSTM/ECPE-2D)]
+1. Penghui Wei, Jiahao Zhao, and Wenji Mao. **Effective Inter-Clause Modeling for End-to-End Emotion-Cause Pair Extraction**. ACL 2020. [[paper](https://www.aclweb.org/anthology/2020.acl-main.289.pdf)] [[code](https://github.com/Determined22/Rank-Emotion-Cause)]
+1. Chuang Fan, Chaofa Yuan, Jiachen Du, Lin Gui, Min Yang, and Ruifeng Xu. **Transition-based Directed Graph Construction for Emotion-Cause Pair Extraction**. ACL 2020. [[paper](https://www.aclweb.org/anthology/2020.acl-main.342.pdf)] [[code](https://github.com/HLT-HITSZ/TransECPE)]
 1. Chaofa Yuan, Chuang Fan, Jianzhu Bao, and Ruifeng Xu. **Emotion-Cause Pair Extraction as Sequence Labeling Based on A Novel Tagging Scheme**. EMNLP 2020. [[paper](https://www.aclweb.org/anthology/2020.emnlp-main.289.pdf)]
-1. Zixiang Ding, Rui Xia, and Jianfei Yu. **End-to-End Emotion-Cause Pair Extraction Based on Sliding Window Multi-Label Learning**. EMNLP 2020. [[paper](https://www.aclweb.org/anthology/2020.emnlp-main.290.pdf)] [[code](https://github.com/NUSTM/ECPE-MLL)]
+7. Zixiang Ding, Rui Xia, and Jianfei Yu. **End-to-End Emotion-Cause Pair Extraction Based on Sliding Window Multi-Label Learning**. EMNLP 2020. [[paper](https://www.aclweb.org/anthology/2020.emnlp-main.290.pdf)] [[code](https://github.com/NUSTM/ECPE-MLL)]
 1. Zifeng Cheng, Zhiwei Jiang, Yafeng Yin, Hua Yu, and Qing Gu. **A Symmetric Local Search Network for Emotion-Cause Pair Extraction**. COLING 2020. [[paper](https://www.aclweb.org/anthology/2020.coling-main.12.pdf)]
 1. Xinhong Chen, Qing Li, and Jianping Wang. **A Unified Sequence Labeling Model for Emotion Cause Pair Extraction**. COLING 2020. [[paper](https://www.aclweb.org/anthology/2020.coling-main.18.pdf)]
 1. Ying Chen, Wenjun Hou, Shoushan Li, Caicong Wu, and Xiaoqiang Zhang. **End-to-End Emotion-Cause Pair Extraction with Graph Convolutional Network**. COLING 2020. [[paper](https://www.aclweb.org/anthology/2020.coling-main.17.pdf)]
-
 1. Sixing Wu, Fang Chen, Fangzhao Wu, Yongfeng Huang, and Xing Li. **A Multi-Task Learning Neural Network for Emotion-Cause Pair Extraction**. ECAI 2020. [[paper](http://ecai2020.eu/papers/583_paper.pdf)]
-
 1. Hao Tang, Donghong Ji, and Qiji Zhou. **Joint Multi-level Attentional Model for Emotion Detection and Emotion-cause Pair Extraction**. Neurocomputing 2020. [[paper](https://www.sciencedirect.com/science/article/pii/S092523122030566X)]
-
 1. Rui Fan, Yufan Wang, Tingting He. **An End-to-End Multi-task Learning Network with Scope Controller for Emotion-Cause Pair Extraction**. NLPCC 2020. [[paper](https://doi.org/10.1007/978-3-030-60450-9_60)]
-
 1. Haolin Song, Chen Zhang, Qiuchi Li, and Dawei Song. **End-to-end Emotion-Cause Pair Extraction via Learning to Link**. ArXiv 2020. [[paper](https://arxiv.org/pdf/2002.10710)]
-
-18. Rui Xia and Zixiang Ding. **Emotion-Cause Pair Extraction: A New Task to Emotion Analysis in Texts**. ACL 2019. [[paper](https://arxiv.org/abs/1906.01267)] [[code](https://github.com/NUSTM/ECPE)]
+1. Rui Xia and Zixiang Ding. **Emotion-Cause Pair Extraction: A New Task to Emotion Analysis in Texts**. ACL 2019. [[paper](https://arxiv.org/abs/1906.01267)] [[code](https://github.com/NUSTM/ECPE)]
 
 
 &nbsp;
