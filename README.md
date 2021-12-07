@@ -43,8 +43,8 @@ This is a reading list on the task of Emotion Cause Analysis maintained by [Zixi
 ### 2.1 Span-level ECE
 1. Xiangju Li, Wei Gao, Shi Feng, Yifei Zhang, Daling Wang. **Boundary Detection with BERT for Span-level Emotion Cause Analysis**. ACL (Findings) 2021. [[paper](https://aclanthology.org/2021.findings-acl.60.pdf)] 
 1. Elsbeth Turcan, Shuai Wang, Rishita Anubhai, Kasturi Bhattacharjee, Yaser Al-Onaizan, Smaranda Muresan. **Multi-Task Learning and Adapted Knowledge Models for Emotion-Cause Extraction**. ACL (Findings) 2021. [[paper](https://aclanthology.org/2021.findings-acl.348.pdf)] 
-1. Xiangju Li, Wei Gao, Shi Feng, Wang Daling, and Shafiq Joty. **Span-Level Emotion Cause Analysis by BERT-based Graph Attention Network**. CIKM 2021. 
-1. Xiangju Li, Wei Gao, Shi Feng, Wang Daling, and Shafiq Joty. **Span-level Emotion Cause Analysis with Neural Sequence Tagging**. CIKM 2021. 
+1. Xiangju Li, Wei Gao, Shi Feng, Wang Daling, and Shafiq Joty. **Span-Level Emotion Cause Analysis by BERT-based Graph Attention Network**. CIKM 2021.[[paper](https://doi.org/10.1145/3459637.3482185)] 
+1. Xiangju Li, Wei Gao, Shi Feng, Wang Daling, and Shafiq Joty. **Span-level Emotion Cause Analysis with Neural Sequence Tagging**. CIKM 2021.[[paper](https://dl.acm.org/doi/10.1145/3459637.3482186)] 
 1. Haoda Qian, Qiudan Li, Zaichuan Tang. **A Multi-Task MRC Framework for Chinese Emotion Cause and Experiencer Extraction**. ICANN 2021. [[paper](https://link.springer.com/chapter/10.1007%2F978-3-030-86380-7_9)] 
 1. Min Li, Hui Zhao, Hao Su, YuRong Qian and Ping Li. **Emotion-cause span extraction: a new task to emotion cause identification in texts**. Applied Intelligence 2021. [[paper](https://link.springer.com/article/10.1007/s10489-021-02188-7)]
 1. Shuntaro Yada, Kazushi Ikeda, Keiichiro Hoashi, and Kyo Kageura. **A bootstrap method for automatic rule acquisition on emotion cause extraction**. ICDMW 2017. [[paper](https://sentic.net/sentire2017yada.pdf)]
@@ -58,7 +58,8 @@ This is a reading list on the task of Emotion Cause Analysis maintained by [Zixi
 1. Sophia Yat Mei Lee, Ying Chen, and Chu-Ren Huang. **A text-driven rule-based system for emotion cause detection**. NAACL-HLT 2010. [[paper](https://www.aclweb.org/anthology/W/W10/W10-0206.pdf)]
 
 ### 2.2 Clause-level ECE
-1. Hanqi Yan, Lin Gui, Gabriele Pergola, Yulan He. **Position Bias Mitigation: A Knowledge-Aware Graph Model for Emotion Cause Extraction**. ACL 2021. [[paper](https://aclanthology.org/2021.acl-long.261.pdf)] 
+
+1. Hanqi Yan, Lin Gui, Gabriele Pergola, Yulan He. **Position Bias Mitigation: A Knowledge-Aware Graph Model for Emotion Cause Extraction**. ACL 2021. [[paper](https://aclanthology.org/2021.acl-long.261.pdf)]
 1. Guimin Hu, Guangming Lu, Yi Zhao. **Bidirectional Hierarchical Attention Networks based on Document-level Context for Emotion Cause Extraction**. EMNLP (Findings) 2021. [[paper](https://aclanthology.org/2021.findings-emnlp.51/)] 
 1. Wenhui Yu, Chongyang Shi. **Emotion Cause Extraction by Combining Intra-clause Sentiment-enhanced Attention and Inter-clause Consistency Interaction**. ICCCS 2021. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9449281)] 
 1. Guimin Hu, Guangming Lu and Yi Zhao. **FSS-GCN: A graph convolutional networks with fusion of semantic and structure for emotion cause analysis**. Knowledge-Based Systems 2021. [[paper](https://www.sciencedirect.com/science/article/pii/S0950705120307139)] [[code](https://github.com/LeMei/FSS-GCN)]
@@ -66,8 +67,6 @@ This is a reading list on the task of Emotion Cause Analysis maintained by [Zixi
 1. Yufeng Diao, Hongfei Lin, Liang Yang, Xiaochao Fan, Yonghe Chu, Di Wu, Kan Xu. **Emotion cause detection with enhanced-representation attention convolutional-context network**. Soft Comput 2021. [[paper](https://doi.org/10.1007/s00500-020-05223-w)]
 1. Jing Wan, Han Ren. **Emotion Cause Detection with a Hierarchical Network**. ICICT 2021.[[paper](https://link.springer.com/chapter/10.1007%2F978-981-16-2380-6_53)]
 1. Peiqin Lin, Meng Yang, Yu Gu. **A Hierarchical Inter-Clause Interaction Network for Emotion Cause Extraction**. IJCNN 2021.[[paper](https://ieeexplore.ieee.org/document/9534291)]
-
-
 1. Guimin Hu, Guangming Lu, Yi Zhao. **Emotion-Cause Joint Detection: A Unified Network with Dual Interaction for Emotion Cause Analysis**. NLPCC 2020. [[paper](https://doi.org/10.1007/978-3-030-60450-9_45)]
 1. Xinglin Xiao, Lei Wang, Qingchao Kong, Wenji Mao. **Social Emotion Cause Extraction from Online Texts**. ISI 2020.[[paper](https://doi.org/10.1109/ISI49825.2020.9280532)]
 1. Yufeng Diao, Hongfei Lin, Liang Yang, Xiaochao Fan, Yonghe Chu, Di Wu, Kan Xu, Bo Xu. **Multi-granularity bidirectional attention stream machine comprehension method for emotion cause extraction**. Neural Comput 2020. [[paper](https://doi.org/10.1007/s00521-019-04308-4)]
