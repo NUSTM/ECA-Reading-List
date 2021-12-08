@@ -15,7 +15,7 @@ This is a reading list on the task of Emotion Cause Analysis maintained by [Zixi
 - [4. Datasets](#4-datasets)
 
 ## 1. Emotion-Cause Pair Extraction (ECPE)
-1. Aaditya Singh, Shreeshail Hingane, Saim Wani, and Ashutosh Modi. **An End-to-End Network for Emotion-Cause Pair Extraction**. EACL 2021. [[paper](https://www.aclweb.org/anthology/2021.wassa-1.9/)] [[code](https://github.com/Aaditya-Singh/E2E-ECPE)]
+1. Aaditya Singh, Shreeshail Hingane, Saim Wani, and Ashutosh Modi. **An End-to-End Network for Emotion-Cause Pair Extraction**. EACL 2021. [[paper](https://aclanthology.org/2021.wassa-1.9/)] [[code](https://github.com/Aaditya-Singh/E2E-ECPE)]
 1. Chuang Fan, Chaofa Yuan, Lin Gui, Yue Zhang, Ruifeng Xu. **Multi-task Sequence Tagging for Emotion-Cause Pair Extraction via Tag Distribution Refinement**. TASLP 2021. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9457144)]
 1. Zifeng Cheng, Zhiwei Jiang, Yafeng Yin, Na Li, Qing Gu. **A Unified Target-Oriented Sequence-to-Sequence Model for Emotion-Cause Pair Extraction**. TASLP 2021. [[paper](https://ieeexplore.ieee.org/document/9511845)]
 1. Jiaxin Yu, Wenyuan Liu, Yongjun He, Chunyue Zhang. **A Mutually Auxiliary Multitask Model With Self-Distillation for Emotion-Cause Pair Extraction**. IEEE Access 2021.[[paper](https://doi.org/10.1109/ACCESS.2021.3057880)]
